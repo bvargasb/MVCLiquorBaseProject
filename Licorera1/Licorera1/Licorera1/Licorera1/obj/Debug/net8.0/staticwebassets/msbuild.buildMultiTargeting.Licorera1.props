@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Licorera1.props" />
+</Project>

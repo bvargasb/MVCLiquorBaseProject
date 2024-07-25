@@ -1,0 +1,369 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\views\\home\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\views\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\views\\pedidos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\models\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\models\\pedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\views\\home\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\views\\home\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|c:\\users\\brian_65savnm\\downloads\\licorera1\\licorera1\\licorera1\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C96558C3-F2B7-45BD-B4F3-666283A80211}|Licorera1\\Licorera.csproj|solutionrelative:licorera1\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Licorera1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Licorera1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T20:41:53.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Licorera1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Licorera1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T20:41:52.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Licorera1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Licorera1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T20:41:20.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Licorera1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Licorera1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T19:51:43.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Licorera1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Licorera1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:15:18.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Licorera1\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Licorera1\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:00:26.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "Licorera1\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "Licorera1\\Controllers\\ArticuloController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:24:48.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "Licorera1\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "Licorera1\\Controllers\\PedidosController.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:01:56.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Licorera1\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Licorera1\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAEBVwE4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:55:08.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pedidos.cs",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Models\\Pedidos.cs",
+              "RelativeDocumentMoniker": "Licorera1\\Models\\Pedidos.cs",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Models\\Pedidos.cs",
+              "RelativeToolTip": "Licorera1\\Models\\Pedidos.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:29:18.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Licorera1\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "Licorera1\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAEBVwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:15:14.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Licorera1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Licorera1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T19:51:39.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Home\\Menu.cshtml",
+              "RelativeDocumentMoniker": "Licorera1\\Views\\Home\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Home\\Menu.cshtml",
+              "RelativeToolTip": "Licorera1\\Views\\Home\\Menu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T19:34:51.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Licorera1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Licorera1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:15:43.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Program.cs",
+              "RelativeDocumentMoniker": "Licorera1\\Program.cs",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Program.cs",
+              "RelativeToolTip": "Licorera1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:40:12.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Pedidos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Licorera1\\Views\\Pedidos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Pedidos\\Create.cshtml",
+              "RelativeToolTip": "Licorera1\\Views\\Pedidos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T20:41:58.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Licorera1\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Licorera1\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAEBVwEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:55:05.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Licorera1\\Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "Licorera1\\Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T20:40:52.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Licorera1\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Models\\Cliente.cs",
+              "RelativeToolTip": "Licorera1\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:40:25.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Home\\Registro.cshtml",
+              "RelativeDocumentMoniker": "Licorera1\\Views\\Home\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Views\\Home\\Registro.cshtml",
+              "RelativeToolTip": "Licorera1\\Views\\Home\\Registro.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T19:39:24.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Licorera1\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\brian_65savnm\\Downloads\\Licorera1\\Licorera1\\Licorera1\\Models\\Login.cs",
+              "RelativeToolTip": "Licorera1\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:31:03.601Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Articulo>
+
+@{
+    ViewData["Title"] = "Inventario";
+}
+
+<h1>Inventario</h1>
+<h2>Lista de articulos</h2>
+
+<p>
+    <a asp-action="Create">Registrar Articulo</a>
+</p>
+
+<form asp-action="Index">
+    <p>
+        Digite la identificación del articulo: <input type="number" name="id" />
+        <input type="submit" value="Consultar" />
+    </p>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ArticuloID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cantidadExistencia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IDBodega)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaIngresoBodega)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaVencimiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tipoLicor)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ArticuloID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cantidadExistencia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IDBodega)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaIngresoBodega)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaVencimiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tipoLicor)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new {  id=item.ArticuloID  }) |
+                    @Html.ActionLink("Detalles", "Details", new { id = item.ArticuloID }) |
+                    @Html.ActionLink("Eliminar", "Delete", new { id = item.ArticuloID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
